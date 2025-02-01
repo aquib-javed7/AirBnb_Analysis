@@ -30,4 +30,4 @@ Click [**Here**](https://docs.google.com/spreadsheets/d/1b_dvmyhb_kAJhUmv81rAxl4
 4. **Analysis and Visualization**: Python plotly is used to analyze and visualize how prices vary across different locations, property types, and seasons. 
 5. **Dashboard Creation**:Tableau is used to create a comprehensive dashboard that presents key insights from analysis. 
 # Tableau Dashboard
-![AirbnbTBW]('https://github.com/aquib-javed7/AirBnb_Analysis/blob/main/PoweBI%20output.jpg?raw=true')
+![AirbnbTBW](https://github.com/aquib-javed7/AirBnb_Analysis/blob/main/PoweBI%20output.jpg?raw=true)
