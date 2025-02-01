@@ -20,7 +20,7 @@ Click [**Here**](https://docs.google.com/spreadsheets/d/1b_dvmyhb_kAJhUmv81rAxl4
 3. Pandas
 4. Plotly
 5. Folium
-6. Tableau
+6. PowerBI
 7. Streamlit
 
 # Project Approach:
@@ -28,6 +28,6 @@ Click [**Here**](https://docs.google.com/spreadsheets/d/1b_dvmyhb_kAJhUmv81rAxl4
 2. **Data Cleaning and Preparation**: Airbnb dataset was preprocessed by handling missing values, removing duplicates, transforming necessary datatypes and replacing the country codes for choropleth visualizations. 
 3. **Geospatial Visualization**: The geospatial data from the Airbnb dataset is used to create interactive folium maps. The distribution of listings across different locations are visualized allowing users to explore prices, ratings, and other relevant factors.
 4. **Analysis and Visualization**: Python plotly is used to analyze and visualize how prices vary across different locations, property types, and seasons. 
-5. **Dashboard Creation**:Tableau is used to create a comprehensive dashboard that presents key insights from analysis. 
-# Tableau Dashboard
+5. **Dashboard Creation**:PowerBI is used to create a comprehensive dashboard that presents key insights from analysis. 
+# PowerBI Dashboard
 ![AirbnbTBW](https://github.com/aquib-javed7/AirBnb_Analysis/blob/main/PoweBI%20output.jpg?raw=true)
